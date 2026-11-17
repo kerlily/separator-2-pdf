@@ -8,7 +8,7 @@ OUTPUT_FOLDER = Path("Hasil_Pemisahan")
 KODE = "HM"
 DESA = "DESA_SILURAH"
 
-NOMOR_AWAL = 1201
+NOMOR_AWAL = 1401
 
 # Nomor yang ingin dilewati
 SKIP_NOMOR = [
